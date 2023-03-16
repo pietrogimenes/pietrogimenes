@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Pietro Gimenes, desenvolvedor web / games!
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando Typescript
+- 🔭 Hoje trabalho com front-end {HTML,CSS,JS,WordPress}
+- 🌱 Estudando Typescript, Angular, React
 - 😄 Pronouns: ele/dele
 
 <div align="center">

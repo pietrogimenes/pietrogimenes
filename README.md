@@ -54,6 +54,8 @@
 ---
 
 ## 🚀 Projetos Destacados  
+📌 **[API Fastify Postgres](https://github.com/pietrogimenes/api-fastify-postgres)**  
+🔹 Esta API permite a gestão de eventos, possibilitando inscrição de usuários, indicação de participantes e administração de eventos de forma eficiente e segura.  
 
 📌 **[Video API Fastify Postgres](https://github.com/pietrogimenes/video-api-fastify-postgres)**  
 🔹 Uma API de vídeos construída com Fastify e PostgreSQL.  
@@ -69,7 +71,7 @@
 ## 📫 Contato  
 
 📩 **Email:** pietro-gimenes@hotmail.com 
-💼 **LinkedIn:** [Pietro Gimenes](https://www.linkedin.com/in/pietrogimenes)   
+💼 **LinkedIn:** [Pietro Gimenes](https://www.linkedin.com/in/pietro-gimenes)   
 🎥 **YouTube:** [Meu Canal](https://www.youtube.com/channel/Revoltz4m)  
 
 ---

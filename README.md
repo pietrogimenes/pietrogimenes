@@ -41,10 +41,10 @@
 <table>
   <tr>
     <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pietrogimenes&layout=compact&langs_count=6&theme=radical"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pietrogimenes&langs_count=10"/>
     </td>
     <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pietrogimenes&layout=compact&langs_count=6&theme=radical"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pietrogimenes&show_icons=true&hide_title=true&count_private=true&hide=prs"/>
     </td>
   </tr>
 </table>
